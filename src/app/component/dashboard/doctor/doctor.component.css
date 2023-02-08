@@ -1,0 +1,18 @@
+.add-doc{
+    color: #2783da;
+}
+
+mat-card  :hover{
+transform: scale(1.06);
+}
+
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+ 
